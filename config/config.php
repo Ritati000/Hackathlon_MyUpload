@@ -1,5 +1,5 @@
 <?php
-$serverip = "https://de4b-2003-c9-3707-7701-88d-a06a-3f4d-e916.eu.ngrok.io";
+$serverip = "localhost";
 
 $servername = "localhost";
 $username = "root";
