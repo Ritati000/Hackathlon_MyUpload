@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 --
 -- Tabellenstruktur für Tabelle `uploads`
 --
-
+CREATE DATABASE `myupload`;
 CREATE TABLE `uploads` (
   `uploadid` int(10) UNSIGNED NOT NULL,
   `uploaddate` datetime NOT NULL DEFAULT current_timestamp(),
